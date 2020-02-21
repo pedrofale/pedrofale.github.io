@@ -10,12 +10,6 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
-navigation:
-- title: Contact
-  url: /contact
-- title: Blog
-  url: /blog
-
 # jekyll-paginate configuration
 paginate:            5
 
