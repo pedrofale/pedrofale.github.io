@@ -1,18 +1,8 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+I am a PhD candidate in computer science at Princeton University where I am advised by Barbara Engelhardt and work in the Engelhardt Group. I also collaborate with Ryan Adams in the Laboratory for Intelligent Probabilistic Systems. My interests are broadly in machine learning and statistics, and my current work focuses on practical algorithms for scalable and flexible Bayesian inference, such as fast online inference in memory-constrained environments and nonlinear latent variable modeling.
 
-### Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Before Princeton, I earned a B.Arch and M.Arch from Oklahoma State University and Yale University respectively. Bootstrapping a career in science and tech, I worked for Yongli Zhang at Yale, taught myself programming on nights and weekends, and worked as a software engineer for Integral Ad Science and Avi Ma'ayan before pursuing a PhD. In the summer of 2019, I interned as quantitative researcher building fast online algorithms for Tudor in London.
