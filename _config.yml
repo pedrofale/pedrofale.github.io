@@ -23,6 +23,12 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           'Pedro F. Ferreira'
 description:	       'PhD student in Computational Biology'
 
+navigation:
+- title: Contact
+  url: /contact
+- title: Blog
+  url: /blog
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
