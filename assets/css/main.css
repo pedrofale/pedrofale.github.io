@@ -19,7 +19,7 @@
 
 body {
   font-family: -apple-system, Helvetica, arial, sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   color: #515151;
   line-height: 1.75rem;
 }
@@ -35,7 +35,8 @@ body {
 }
 
 h1{
-  font-size: 2rem;
+  font-size: 24px;
+  margin-bottom: 5px;
 }
 
 h1 a {
