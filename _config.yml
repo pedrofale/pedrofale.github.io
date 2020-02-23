@@ -21,7 +21,6 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Pedro F. Ferreira'
-description:	       'PhD student in Computational Biology'
 
 navigation:
 - title: Contact
