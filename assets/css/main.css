@@ -105,18 +105,19 @@ hr {
   font-family: "Quattrocento Sans", sans-serif;
 }
 
-.masthead a:hover {
+.masthead a {
   color:black;
+  text-decoration: underline;
 }
 
 .masthead-title a {
   font-size: 2rem;
   text-decoration: none;
-  color: #505050;
+  color: black;
 }
 
 .masthead-subtitle {
-  color: #999;
+  color: black;
 }
 
 /*
