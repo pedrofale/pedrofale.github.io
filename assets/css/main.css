@@ -246,6 +246,7 @@ hr {
   color: #999;
   font-size: 1rem;
   padding-right: 10px;
+  text-decoration: underline;
 }
 
 .social-icons {
