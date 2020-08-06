@@ -1,8 +1,3 @@
-# Change 'comments' to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'https-pedrofale-github-io'
-
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
@@ -11,7 +6,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/pedrofale'}
+# - {icon: 'github', link: 'https://www.github.com/pedrofale'}
 - {icon: 'twitter', link: 'https://twitter.com/pfalef'}
 - {icon: 'envelope', link: 'mailto:pedro.miguel.ferreira.pf@gmail.com'}
 # - {icon: 'rss-square', link: '/feed.xml'}
@@ -24,4 +19,4 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-post_date_prefix: 'Written on'
+post_date_prefix: ''
