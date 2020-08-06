@@ -20,7 +20,7 @@
 body {
   font-family: -apple-system, Helvetica, arial, sans-serif;
   font-size: 15px;
-  color: #515151;
+  color: rgba(0, 0, 0, 0.8);
   line-height: 1.75rem;
 }
 
