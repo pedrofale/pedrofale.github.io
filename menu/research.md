@@ -14,7 +14,7 @@ I do my best to provide constructive criticism to authors of papers submitted to
 <br>
 
 ### Selected papers
-Please see my Google Scholar page for a complete list.
+Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=wBVuepgAAAAJ&view_op=list_works&sortby=pubdate) for a complete list.
 * Pedro F. Ferreira, Jack Kuipers, Niko Beerenwinkel. Deep exponential families for single-cell data analysis. 2022.
 * Pedro F. Ferreira, Jack Kuipers, Niko Beerenwinkel. Mapping single-cell transcriptomes to copy number evolutionary trees. 2021.
 * Jack Kuipers * , Mustafa A. Tuncel * , Pedro F. Ferreira * , Katharina Jahn, Niko Beerenwinkel. Single-cell copy number calling and event history reconstruction. 2020.
