@@ -21,7 +21,8 @@ body {
   font-family: -apple-system, Helvetica, arial, sans-serif;
   font-size: 15px;
   color: rgba(0, 0, 0, 0.8);
-  line-height: 1.75rem;
+  /* color: black; */
+  line-height: 1.5em;
 }
 
 @media (max-width: 30em) {
@@ -50,18 +51,19 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   text-decoration: underline;
-  color: #333;
+  /* color: black; */
+  color: rgba(0, 0, 0, 0.8);
 }
 
 a:hover {
-  color: black;
+  /* color: black; */
   border-bottom: none;
 }
 
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 5px;
+  /* border-radius: 5px; */
 }
 
 blockquote {
@@ -83,7 +85,13 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 615px;
+  width: 715px;
+}
+
+.blogpost-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 715px;
 }
 
 /*48em*/
@@ -102,6 +110,12 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
+  font-family: "Quattrocento Sans", sans-serif;
+}
+
+.posthead {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   font-family: "Quattrocento Sans", sans-serif;
 }
 
@@ -152,11 +166,53 @@ hr {
 
 .post-date {
   display: block;
-  margin-top:3px;
-  margin-bottom: 1rem;
+  margin-top:.1px;
+  margin-bottom:1px;
   color: #9a9a9a;
   font-family: -apple-system, Helvetica, arial, sans-serif;
   font-size:0.8rem;
+}
+
+.post-list-text {
+  display: inline-block;
+  width:  90%;
+  @media (max-width: 20px) {
+    width: 100%;
+  }
+}
+
+#post-list-img {
+ display: inline-block;
+ vertical-align: top;
+ float: left;
+ max-width: 25%;
+}
+
+.post-list-title {
+  margin-top:3px;
+  margin-bottom:0.1px;
+  /* color: black; */
+  color: #333;
+  text-decoration: underline;
+  font-size:1em;
+}
+
+.post-list-subtitle {
+  margin-top:1px;
+  margin-bottom:1px;
+  /* color: black; */
+  font-family: -apple-system, Helvetica, arial, sans-serif;
+  font-size:.9rem;
+  line-height: 1.5em;
+}
+
+.post-subtitle {
+  margin-top:20px;
+  margin-bottom:10px;
+  /* color: black; */
+  font-family: -apple-system, Helvetica, arial, sans-serif;
+  font-size:.9rem;
+  line-height: 1.5em;
 }
 
 @media (max-width: 30rem) {
@@ -371,11 +427,11 @@ th, td {
 
 .fa-envelope {
   padding: 5px;
-	-o-transition:.5s;
+	/* -o-transition:.5s;
   	-ms-transition:.5s;
   	-moz-transition:.5s;
   	-webkit-transition:.5s;
-  	transition: .5s;
+  	transition: .5s; */
 }
 
 .fa-envelope:hover {
@@ -384,11 +440,11 @@ th, td {
 
 .fa-twitter {
   padding: 5px;
-	-o-transition:.5s;
+	/* -o-transition:.5s;
   	-ms-transition:.5s;
   	-moz-transition:.5s;
   	-webkit-transition:.5s;
-  	transition: .5s;
+  	transition: .5s; */
 }
 
 .fa-twitter:hover {
