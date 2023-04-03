@@ -186,6 +186,7 @@ hr {
  vertical-align: top;
  float: left;
  max-width: 25%;
+ margin-right:10px;
 }
 
 .post-list-title {
