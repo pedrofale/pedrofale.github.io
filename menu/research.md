@@ -22,12 +22,14 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 <br>
 
 ### Talks, lectures and posters
+* ICSDS 2023 session on "Omics data analysis", Lisbon, PT. Deep exponential families for single-cell data analysis. (invited talk)
+* Basel Computational Biology Conference (BC2), Basel, CH. Deep exponential families for single-cell data. (poster)
 * OLISSIPO workshop, INESC-ID, Lisbon, PT. Analysis of single-cell data from tumors. (workshop)
 * D-BSSE internal seminar, Basel, CH. Understanding tumor evolution through single-cell data.
 * Raphael group, Princeton University, NJ, USA. Understanding tumor heterogeneity through single-cell data. 
 * Statistics seminar, UBC, Vancouver, CA. Understanding tumor heterogeneity through single-cell data. 
-* CytoData Symposium, Allen Institute for Cell Science, Seattle, WA, USA. Understanding tumor heterogeneity through single-cell data. (Invited talk)
-* RECOMB 2022, San Diego, CA, USA. Mapping single-cell transcriptomes to copy number evolutionary trees. (Contributed talk)
+* CytoData Symposium, Allen Institute for Cell Science, Seattle, WA, USA. Understanding tumor heterogeneity through single-cell data. (invited talk)
+* RECOMB 2022, San Diego, CA, USA. Mapping single-cell transcriptomes to copy number evolutionary trees. (contributed talk)
 * OLISSIPO exchange, Lisbon, Portugal. Mapping single-cell transcriptomes to copy number evolutionary trees. 
 * Ascona workshop, Ascona, CH. Mapping single-cell transcriptomes to copy number evolutionary trees.
 * Cancer evolution. Bad Honnef, DE. Mapping single-cell transcriptomes to copy number evolutionary trees. (poster)
