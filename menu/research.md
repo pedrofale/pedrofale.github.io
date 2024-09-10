@@ -22,6 +22,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 <br>
 
 ### Talks, lectures and posters
+* EMBO workshop in Spatial Biology of Cancer, London, UK. Hierarchical cell states in single-cell and spatial transcriptomics data from tumors. (poster)
 * FARO Seminar in Oncology, Basel, CH. Tumor single-cell genomic and transcriptomic data analysis and integration with applications to melanoma.
 * ICSDS 2023 session on "Omics data analysis", Lisbon, PT. Deep exponential families for single-cell data analysis. (invited talk)
 * Basel Computational Biology Conference (BC2), Basel, CH. Deep exponential families for single-cell data. (poster)
