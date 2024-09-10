@@ -5,7 +5,7 @@ title: Research
 
 ## Research
 
-I aim to contribute to minimizing the suffering caused by cancer by developing computational methods that extract actionable information from tumors. During my PhD, I have been creating methods to identify hierarchical gene signatures from gene expression data, reconstruct the history of copy number aberrations in cancer cells, and associate genomic with transcriptomic states from single-cell sequencing data. You can find a list of selected papers below. 
+I aim to contribute to minimizing the suffering caused by cancer by developing computational methods that extract actionable information from tumors. During my PhD, I created methods to identify hierarchical gene signatures from gene expression data, reconstruct the history of copy number aberrations in cancer cells, and associate genomic with transcriptomic states from single-cell sequencing data. You can find a list of selected papers below. 
 
 I am enthusiastic about sharing my research in conferences and meetings. You can find a list of some of my talks and poster presentations below.
 
