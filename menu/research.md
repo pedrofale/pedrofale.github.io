@@ -5,7 +5,10 @@ title: Research
 
 ## Research
 
-I aim to contribute to minimizing the suffering caused by cancer by developing computational methods that extract actionable information from tumors. During my PhD, I created methods to identify hierarchical gene signatures from gene expression data, reconstruct the history of copy number aberrations in cancer cells, and associate genomic with transcriptomic states from single-cell sequencing data. You can find a list of selected papers below. 
+I aim to contribute to minimizing the suffering caused by cancer by developing computational methods that extract actionable information from tumors. 
+
+<a href="https://doi.org/10.3929/ethz-b-000708983"><img style="float: right;" src="../assets/img/thesis.png" width=250></a>
+Describing the heterogeneous populations of cells that constitute tumors is an important step towards designing effective cancer therapies. With the development of single-cell sequencing technologies, this heterogeneity can be accessed at very high resolution and used to understand tumor progression. I develop statistical models and learning algorithms to describe the heterogeneity of tumors from high-throughput single-cell sequencing data. During my PhD, I designed and implemented three computational tools for single-cell RNA and DNA sequencing data analysis, and applied these methods to discover subgroups within a large cohort of metastatic melanoma patients. My doctoral thesis is available <a href="https://doi.org/9.3929/ethz-b-000708983">here</a> and the cover features a beautiful drawing by <a href="https://ivoliveira.com">In&ecirc;s Viegas Oliveira</a>.
 
 I am enthusiastic about sharing my research in conferences and meetings. You can find a list of some of my talks and poster presentations below.
 
@@ -15,9 +18,9 @@ I do my best to provide constructive criticism to authors of papers submitted to
 
 ### Selected papers
 Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=wBVuepgAAAAJ&view_op=list_works&sortby=pubdate) for a complete list.
+* Jack Kuipers * , Mustafa A. Tuncel * , Pedro F. Ferreira * , Katharina Jahn, Niko Beerenwinkel. Single-cell copy number calling and event history reconstruction. 2025.
 * Pedro F. Ferreira, Jack Kuipers, Niko Beerenwinkel. Identifying hierarchical cell states and gene signatures with deep exponential families for single-cell transcriptomics. 2024.
 * Pedro F. Ferreira, Jack Kuipers, Niko Beerenwinkel. Mapping single-cell transcriptomes to copy number evolutionary trees. 2021.
-* Jack Kuipers * , Mustafa A. Tuncel * , Pedro F. Ferreira * , Katharina Jahn, Niko Beerenwinkel. Single-cell copy number calling and event history reconstruction. 2020.
 
 <br>
 
