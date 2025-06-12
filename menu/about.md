@@ -5,7 +5,7 @@ title: About
 
 ## About
 
-I am a computational biologist from Lisbon, Portugal. I currently work as a postdoctoral fellow at [KTH Royal Institute of Technology](https://www.kth.se/en) with [Jens Lagergren](https://www.scilifelab.se/researchers/jens-lagergren/) and [Jonas Frisén](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/stem-cells-in-tissue-homeostasis-and-regenerative-medicine-jonas-frisens-group) in Stockholm developing computational methods for the analysis of time-series and spatial transcriptomics data from tumors.
+I am a computational biologist from Lisbon, Portugal. I currently work as a postdoctoral fellow at [KTH Royal Institute of Technology](https://www.kth.se/en) with [Jens Lagergren](https://www.scilifelab.se/researchers/jens-lagergren/) and [Jonas Frisén](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/stem-cells-in-tissue-homeostasis-and-regenerative-medicine-jonas-frisens-group) in Stockholm, where I am developing computational methods for the analysis of time-series and spatial single-cell sequencing data from tumors.
 
 I obtained my PhD in May 2024 at the [Computational Biology Group](https://bsse.ethz.ch/cbg) at the department of Biosystems Science and Engineering of ETH Zürich, supervised by [Niko Beerenwinkel](https://bsse.ethz.ch/cbg/group/people/person-detail.MTQ5NDE3.TGlzdC81MTYsOTQ0ODM3Mzc2.html) and [Jack Kuipers](https://bsse.ethz.ch/cbg/group/people/person-detail.MjA3Mjc0.TGlzdC81MTYsOTQ0ODM3Mzc2.html). I developed Bayesian models to extract information from high-throughput single-cell sequencing data and reconstruct the evolution of tumors.
 
