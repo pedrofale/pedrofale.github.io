@@ -26,7 +26,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ### Talks, lectures and posters
 * SciLifeLab Science Summit 2026, Uppsala, SE. Tree and space-aware optimal transport for single-cell and spatial transcriptomics data integration. (poster, selected for flash talk)
-* KI CMB retreat, Stockholm, SE. Clonal analysis of senescence escape in cancer. (poster)
+* KI CMB retreat 2025, Stockholm, SE. Clonal analysis of senescence escape in cancer. (poster)
 * Champalimaud Research Symposium 2024, Lisbon, PT. Hierarchical cell states in single-cell and spatial transcriptomics data from tumors. (poster)
 * EMBO workshop in Spatial Biology of Cancer, London, UK. Hierarchical cell states in single-cell and spatial transcriptomics data from tumors. (poster)
 * FARO Seminar in Oncology, Basel, CH. Tumor single-cell genomic and transcriptomic data analysis and integration with applications to melanoma.
