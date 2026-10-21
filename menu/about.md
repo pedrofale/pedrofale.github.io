@@ -13,4 +13,4 @@ Before joining ETH Zürich in 2019, I obtained an integrated Master's degree in 
 
 ---
 
-E-mail: <span style="font-family:courier">pedro.miguel.ferreira.pf [at] gmail.com</span>
+E-mail: <span style="font-family:courier">pedro.ferreira [at] scilifelab.se</span>
