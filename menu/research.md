@@ -8,7 +8,7 @@ title: Research
 I aim to contribute to minimizing the suffering caused by cancer by developing computational methods that extract actionable information from tumors. 
 
 <a href="https://doi.org/10.3929/ethz-b-000708983"><img style="float: right;" src="../assets/img/thesis.png" width=200></a>
-Describing the heterogeneous populations of cells that constitute tumors is an important step towards designing effective cancer therapies. With the development of single-cell sequencing technologies, this heterogeneity can be accessed at very high resolution and used to understand tumor progression. I develop statistical models and learning algorithms to describe the heterogeneity of tumors from high-throughput single-cell sequencing data. During my PhD, I designed and implemented three computational tools for single-cell RNA and DNA sequencing data analysis, and applied these methods to discover subgroups within a large cohort of metastatic melanoma patients. My doctoral thesis is available <a href="https://doi.org/9.3929/ethz-b-000708983">here</a> and the cover features a beautiful drawing by <a href="https://ivoliveira.com">In&ecirc;s Viegas Oliveira</a>.
+Describing the heterogeneous populations of cells that constitute tumors is an important step towards designing effective cancer therapies. With the development of single-cell sequencing technologies, this heterogeneity can be accessed at very high resolution and used to understand tumor progression. I develop statistical models and learning algorithms to describe the heterogeneity of tumors from high-throughput single-cell sequencing data. During my PhD, I designed and implemented three computational tools for single-cell RNA and DNA sequencing data analysis, and applied these methods to discover subgroups within a large cohort of metastatic melanoma patients. My doctoral thesis is available <a href="https://doi.org/10.3929/ethz-b-000708983">here</a> and the cover features a beautiful drawing by <a href="https://ivoliveira.com">In&ecirc;s Viegas Oliveira</a>.
 
 I am enthusiastic about sharing my research in conferences and meetings. You can find a list of some of my talks and poster presentations below.
 
@@ -25,6 +25,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 <br>
 
 ### Talks, lectures and posters
+* Computational Biology Meeting, St. Anna Children's Cancer Research Institute (CCRI), Vienna, AT. Trees, trajectories and maps in tumor evolution and drug escape.
 * SciLifeLab Science Summit 2026, Uppsala, SE. Tree and space-aware optimal transport for single-cell and spatial transcriptomics data integration. (poster, selected for flash talk)
 * KI CMB retreat 2025, Stockholm, SE. Clonal analysis of senescence escape in cancer. (poster)
 * Champalimaud Research Symposium 2024, Lisbon, PT. Hierarchical cell states in single-cell and spatial transcriptomics data from tumors. (poster)
